@@ -1,5 +1,9 @@
 #divmain {
-	margin-left: 43%;	
+	margin-left: 48%;	
+}
+
+#imgmain {
+	margin-left: 5%;	
 }
 
 body {
@@ -30,10 +34,10 @@ p {
 p.pindex {
 	font-family: Arial;
 	text-align: left;
-	margin-left: 43%;
+	margin-left: 48%;
 	margin-right: 20px;
 	margin-bottom: 5px;
-	width: 57%;
+	width: 52%;
 }	
 
 p.pclose {
