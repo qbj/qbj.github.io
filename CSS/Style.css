@@ -1,3 +1,7 @@
+#divmain {
+	margin-left: 43%;	
+}
+
 body {
 	/*margin: 50px 60px 50px 60px;*/
 	margin: 0px 0px 0px 0px;
@@ -17,16 +21,26 @@ h1.h1lab {
 p {
 	font-family: Arial;
 	text-align: left;
-	margin-left: 20px;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom: 5px;
+	width: 90%;
+}
+
+p.pindex {
+	font-family: Arial;
+	text-align: left;
+	margin-left: 43%;
 	margin-right: 20px;
 	margin-bottom: 5px;
+	width: 57%;
 }	
 
 p.pclose {
 	font-family: Arial;
 	text-align: right;
-	margin-left:80px;
-	margin-right:20px;
+	margin-left: 5%;
+	margin-right:5%;
 	line-height:100%;
 }
 
